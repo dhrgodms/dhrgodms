@@ -1,4 +1,5 @@
 ## ~ { 🦖 dhrgodms 's small and precious Github 🦖 } ~
+[![Velog Badge](http://img.shields.io/badge/-Velog-20c997?style=flat&link=https://velog.io/@okhaeeumm)](https://velog.io/@okhaeeumm)
 
 # 🇰🇷 🌊 👩‍💻 ❤️
 intersted in 👉 **blockchain**⛓ & **web3.0**
