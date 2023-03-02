@@ -3,11 +3,6 @@
 ### HI, This is Haeeun Ok 's Github 🇰🇷 🌊 👩‍💻 ❤
 ![myTitleImg](https://dhrgodms.github.io/hitchens/assets/images/title.png)
 
-
-👉 interests : **blockchain**⛓ & **web3.0**
-  
-  
-
 [![Velog Badge](http://img.shields.io/badge/-Velog-20c997?style=flat&link=https://velog.io/@okhaeeumm)](https://velog.io/@okhaeeumm)
 [![page Badge](http://img.shields.io/badge/-mypage-365b25?style=flat&link=https://dhrgodms.github.io/hitchens/)](https://dhrgodms.github.io/hitchens/)
 
