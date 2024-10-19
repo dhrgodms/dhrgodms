@@ -4,7 +4,7 @@
 ![myTitleImg](https://dhrgodms.github.io/hitchens/assets/images/title.png)
 
 [![Velog Badge](http://img.shields.io/badge/-Velog-20c997?style=flat&link=https://velog.io/@okhaeeumm)](https://velog.io/@okhaeeumm)
-[![Tistory's Badge](https://github-readme-tistory-card.vercel.app/api/badge?name={i-am-okay}&theme={default})](https://i-m-okay.tistory.com/)
+[![Tistory's Badge](https://github-readme-tistory-card.vercel.app/api/badge?name=i-am-okay&theme={default})](https://i-m-okay.tistory.com/)
 
 
 
