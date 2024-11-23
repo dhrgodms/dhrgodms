@@ -1,6 +1,6 @@
 <div align="center">
 
-### HI, This is Haeeun Ok 's Github 🇰🇷 🌊 👩‍💻 ❤
+### 옥해은의 깃허브입니다. 🇰🇷 🌊 👩‍💻 ❤
 ![myTitleImg](https://dhrgodms.github.io/hitchens/assets/images/title.png)
 
 [![Velog Badge](http://img.shields.io/badge/-Velog-20c997?style=flat&link=https://velog.io/@okhaeeumm)](https://velog.io/@okhaeeumm)
