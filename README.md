@@ -1,19 +1,63 @@
 <div align="center">
 
-### 옥해은의 깃허브입니다. 🇰🇷 🌊 👩‍💻 ❤
+<h1 align="center">Hello👋 , I'm Ok Haeeun</h1>
+
+<h4 align="center">Toward the 'key' developer...🗝️</h4>
+
 ![myTitleImg](https://dhrgodms.github.io/hitchens/assets/images/title.png)
 
-[![Velog Badge](http://img.shields.io/badge/-Velog-20c997?style=flat&link=https://velog.io/@okhaeeumm)](https://velog.io/@okhaeeumm)
-[![Tistory's Badge](https://github-readme-tistory-card.vercel.app/api/badge?name=i-am-okay&theme={default})](https://i-m-okay.tistory.com/)
 
+###
 
+<h2 align="left">About me</h2>
 
+###
 
-##### 📩 e-mail : dhrgodms123@gmail.com
+<p align="left">📚 Bachelor of Science in Computer Engineering in Jeju, Republic of Korea<br>🎯 Goals: To be a Backend Developer<br>🎲 Fun fact: It's just been a while since I started studying Java ...</p>
 
-<br><br>
-  
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dhrgodms&show_icons=true&theme=swift)](https://github.com/dhrgodms/github-readme-stats)
-  
-  
+###
+
+<h2 align="left">I code with</h2>
+
+###
+
+<div align="left">
+  <img src="https://skillicons.dev/icons?i=aws" height="40" alt="amazonwebservices logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=figma" height="40" alt="figma logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=git" height="40" alt="git logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=java" height="40" alt="java logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=mysql" height="40" alt="mysql logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=postgres" height="40" alt="postgresql logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=spring" height="40" alt="spring logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=vercel" height="40" alt="vercel logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=js" height="40" alt="javascript logo"  />
 </div>
+
+###
+
+<h2 align="left">Contact with me</h2>
+
+###
+
+<div align="left">
+  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="linkedin logo"  />
+  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="gmail logo"  />
+</div>
+
+###
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/dhrgodms/dhrgodms/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/dhrgodms/dhrgodms/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/dhrgodms/dhrgodms/output/pacman-contribution-graph.svg">
+</picture>
+
+###
