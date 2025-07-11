@@ -13,7 +13,7 @@
 
 ###
 
-<p align="left">📚 Bachelor of Science in Computer Engineering in Jeju, Republic of Korea<br>🎯 Goals: To be a Backend Developer<br>🎲 Fun fact: It's just been a while since I started studying Java ...</p>
+<p align="left">📚 Bachelor of Science in Computer Engineering in Jeju, Republic of Korea<br>🎯 Goals: To be a Backend Developer</p>
 
 ###
 
