@@ -13,7 +13,7 @@
 
 ###
 
-<p align="left">📚 Bachelor of Science in Computer Engineering in Jeju, Republic of Korea<br>🎯 Goals: To be a Backend Developer</p>
+<p align="left">📚 Bachelor of Science in Computer Engineering in Jeju, Republic of Korea</p>
 
 ###
 
